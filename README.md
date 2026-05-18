@@ -4,4 +4,4 @@ This is a project I made while learning how to program in the Gamemaker Engine.
 
 You can move your character in two dimensions, leave and enter the igloo, and walk around the world.
 
-![Screenshot](assets/game_image.png)
+![Gif](assets/pipipo.gif)
