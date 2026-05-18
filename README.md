@@ -13,3 +13,9 @@ I also created a menu system where you can choose to start the game (Começar), 
 When you start the game or open the credits, you need to press "Esc" to go back to the menu.
 
 ![Gif](assets/menu.gif)
+
+<br>
+<br>
+<br>
+While doing this project, I asked for some friends of mine who knew how to draw for some pixel arts. But here are some pixel arts I drew.
+![Screenshot](assets/pixelarts.png)
