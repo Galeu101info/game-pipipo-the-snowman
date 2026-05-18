@@ -16,6 +16,6 @@ When you start the game or open the credits, you need to press "Esc" to go back 
 
 <br>
 <br>
-<br>
 While doing this project, I asked for some friends of mine who knew how to draw for some pixel arts. But here are some pixel arts I drew.
+
 ![Screenshot](assets/pixelarts.png)
