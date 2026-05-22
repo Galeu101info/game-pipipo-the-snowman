@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"2",
+  "%Name":"pipipo",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -34,7 +34,7 @@
   "MetaData":{
     "IDEVersion":"2024.14.3.217",
   },
-  "name":"2",
+  "name":"pipipo",
   "resources":[
     {"id":{"name":"obj_bed","path":"objects/obj_bed/obj_bed.yy",},},
     {"id":{"name":"obj_credits","path":"objects/obj_credits/obj_credits.yy",},},

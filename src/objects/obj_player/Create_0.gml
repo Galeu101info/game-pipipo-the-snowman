@@ -1,7 +1,7 @@
 xspeed = 0;
 yspeed = 0;
 
-movespeed = 1;
+movespeed = 1.75;
 
 sprite[UP] = spr_up;
 sprite[DOWN] = spr_down;
