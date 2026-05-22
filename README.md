@@ -9,10 +9,10 @@ You can move your character in two dimensions, leave and enter the igloo, and wa
 <br>
 <br>
 
-I also created a menu system where you can choose to start the game (Começar), to see the credits (Créditos), and leave the game (Sair).    
+I also created a menu system where you can choose to start the game, to see the credits, and leave the game.    
 When you start the game or open the credits, you need to press "Esc" to go back to the menu.
 
-![Gif](assets/menu.gif)
+![Screenshot](assets/menu.png)
 
 <br>
 <br>
